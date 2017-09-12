@@ -119,6 +119,13 @@
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="f4w-Y1-ZN0" userLabel="top_right">
                                 <rect key="frame" x="187" y="499" width="188" height="167"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="83a-Fk-sbd">
+                                        <rect key="frame" x="71" y="68" width="46" height="30"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <state key="normal" title="&gt;&gt;&gt;"/>
+                                    </button>
+                                </subviews>
                                 <color key="backgroundColor" red="1" green="0.1569176894" blue="0.2247027754" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                         </subviews>
